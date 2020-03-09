@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Nom du projet
 
-You can use the [editor on GitHub](https://github.com/ARE2020-G1G2/Coronavirus/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## English version
 
-### Markdown
+Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Présentation de l'équipe
 
-```markdown
-Syntax highlighted code block
+|(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
+|-----|--|--|--|
+| P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Description synthétique du projet
 
-1. Numbered
-2. List
+**Problématique :** 
 
-**Bold** and _Italic_ and `Code` text
+**Hypothèse principale :**
 
-[Link](url) and ![Image](src)
-```
+**Hypothèses secondaires :** 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Objectifs :**
 
-### Jekyll Themes
+**Critère(s) d'évaluation :**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ARE2020-G1G2/Coronavirus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Présentation structurée des résultats
 
-### Support or Contact
+Présentation du choix de modélisation, des outils, du code et des résultats (tableaux, courbes, animations...) (**avec une analyse critique**).
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
+
+## Bibliographie :
+
+**Carte mentale de vos mots-clés, en utilisant** <a href="https://framindmap.org/mindmaps/index.html">Framindmap </a> 
+
+Liste de l'ensemble des ressources bibliographiques utilisées pour vos travaux. **<= Indiquez le canal utilisé pour les trouver (Google Scholar, sources wikipedia, ressources en ligne SU, ...)**
