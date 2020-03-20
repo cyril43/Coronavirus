@@ -1,5 +1,5 @@
 # Coronavirus
-
+Notre objectif sera de déterminer le taux de mortalité du virus.
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
 ## English version
@@ -23,7 +23,7 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 **Objectifs :Determiner le taux de mortalité du Virus
 
-**Critère(s) d'évaluation : Evaluer l etaux de mort en fonction du nombre d'infectés au cours du temps
+**Critère(s) d'évaluation : Evaluer le taux de mort en fonction du nombre d'infectés au cours du temps
 
 ## Présentation structurée des résultats
 
